@@ -1,8 +1,8 @@
 # My Portfolio Website (In Progress) 
-[Click here to view the live site](https://mjmarokane.github.io/portfolio.github.io/) 
+[Click here to view the live site]([https://mjmarokane.github.io/portfolio.github.io/](https://mphotle.github.io/portfolio.github.io/)) 
 _(Note: This is a temporary link and may not reflect the final website design.)_
 
-Welcome to the repository for my personal portfolio website! This project is currently under active development and is expected to be completed by **September 31, 2024**.
+~~Welcome to the repository for my personal portfolio website! This project is currently under active development and is expected to be completed by **September 31, 2024**.~~ This project is deprecated, but accessible.
 
 ## Current Status
 
